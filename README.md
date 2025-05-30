@@ -1,4 +1,4 @@
-📖 **PerfectRecipe**
+# 📖 **PerfectRecipe**
 
 Este é o **MVP** do blog **PerfectRecipe**, uma aplicação CRUD completa de posts para facilitar a criação, edição, exclusão e listagem com paginação de receitas.
 
