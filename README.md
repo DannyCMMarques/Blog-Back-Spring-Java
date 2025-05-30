@@ -48,8 +48,8 @@ A aplicação segue uma arquitetura em camadas:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/DannyCMMarques/backBlog.git
-cd backBlog
+git clone https://github.com/DannyCMMarques/Blog-Back-Spring-Java.git
+cd blog
 
 # Construa e inicie os containers
 docker-compose build
